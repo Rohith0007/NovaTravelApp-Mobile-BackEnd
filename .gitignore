@@ -64,3 +64,34 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+*.swp
+
+# React Native
+android/.gradle
+android/app/build/
+ios/Pods/
+ios/build/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
